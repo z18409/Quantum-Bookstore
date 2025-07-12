@@ -35,8 +35,8 @@ Classes:
 5.Bookstore_Test (test the system)
 
 Output Screenshots:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/09cfd868-a139-4e1f-b6be-fbc85c8873a6" />
-
+[<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/09cfd868-a139-4e1f-b6be-fbc85c8873a6" />
+](https://github.com/z18409/Quantum-Bookstore/blob/main/Output%20Screenshots/1.jpg)
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d6821f80-5b2a-40f5-b504-6cab705246a5" />
 
